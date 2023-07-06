@@ -1,0 +1,60 @@
+#CV-total{
+    height: 100vh;
+    background-color: #F16565;
+    overflow: auto;
+}
+
+#CV-middle{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 15vh;
+    color: white;
+    font-weight: bolder;
+}
+
+#CV-members {
+    width: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+#CV-name{
+    width: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
+}
+
+#CV-add{
+    width: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+}
+
+
+*{
+    text-decoration: none;
+}
+
+#order-list {
+    color: white;
+    font-size: 1.5em;
+    text-transform: capitalize;
+    /* margin-left: 10%; */
+    font-weight: 800;
+}
+
+#card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+}

@@ -1,0 +1,56 @@
+#RC-card {
+    margin: 20px 50px;
+    min-width: 30vw;
+    height: 10vh;
+    background-color: #E4DEDE;
+    color: #F16565;
+    border-radius: 20px;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    text-transform: capitalize;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#RC-rating{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15vh;
+    
+}
+
+#RC-name{
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70vh;
+
+}
+
+#RC-right{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 40vh;
+}
+
+#RC-address{
+    font-size: 20px;
+    width: 15vh;
+}
+
+#RC-add{
+    font-size: 70px;
+    color: #F16565;
+}
+
+*{
+    text-decoration: none;
+}

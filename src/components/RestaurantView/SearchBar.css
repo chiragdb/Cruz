@@ -1,0 +1,28 @@
+#SB-searchbar{
+    margin: 20px 50px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60vh;
+    margin: auto;
+}
+
+#SB-bar{
+    background-color: #F16565;
+    width: 60vh;
+    height: 4vh;
+}
+
+
+#SB-query{
+    width: 50vh;
+    height: 4vh;
+}
+
+#SB-button{
+    width: 10vh;
+    height: 4vh;
+    border-radius: 10px;
+}

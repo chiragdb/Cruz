@@ -1,0 +1,51 @@
+#RVNB-navbar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 24vh;
+    background-color: #BF4545;
+    color: white;
+    font-weight: 10000;
+}
+
+#RVNB-title{
+    height: 16vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-size: 80px;
+    width: 100vh;
+}
+
+#RVNB-second{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 175vh;
+    font-size: 35px;
+    color: white;
+}
+
+#RVNB-left{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 10vh;
+}
+
+#RVNB-right{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 10vh;
+}
+
+#RVNB-add{
+    color: white;
+}
+
+*{
+    text-decoration: none;
+}
